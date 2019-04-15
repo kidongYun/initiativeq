@@ -68,21 +68,21 @@ __Q 코인__ 을 지급받을 수 있다는 거죠
 
 위 화면에서 아래쪽으로 계속 스크롤 하게되면 Sign Up 챕터가 나옵니다.
 
-<img src="/res/2.png">
+<img src="https://user-images.githubusercontent.com/33380063/56156459-496e3c00-5ff8-11e9-8493-8ebce7e0b546.png">
 
 Full name, Email, Password 부분에 본인이 희망하시는 내용을 넣어주고 Sign Up 버튼을 눌러주세요
 
 
 __이메일은 Gmail로__ 하는게 좋다고 하네요 국내의 사이트 경우 메일이 안오는 경우가 있다고 들었습니다.
 
-<img src="/res/3.png">
+<img src="https://user-images.githubusercontent.com/33380063/56156489-5854ee80-5ff8-11e9-852d-9271a9e69cbb.png">
 
 Sign up 버튼을 누르게 되면 아래와 같은 메시지가 보입니다. 이는 한 유저 당 한 계정만 사용할 수 있으며
 
 
 그렇지 않을 경우 보상이나 계정 삭제 당할 수 있음을 동의하는 부분입니다. __Approve를 누릅니다__.
 
-<img src="/res/4.png">
+<img src="https://user-images.githubusercontent.com/33380063/56156531-6c005500-5ff8-11e9-8b57-6af0e99a1089.png">
 
 입력한 이메일로 들어가보면 Initiative Q에서 메일이 왔을거에요. 메일을 클릭하시면
 
@@ -90,7 +90,7 @@ Sign up 버튼을 누르게 되면 아래와 같은 메시지가 보입니다. �
 내용에 코드 5자리가 있는데 이를 아래의 화면 Code 입력 부분에 넣어주시고 __Submit 버튼을 누릅니다__.
 
 
-<img src="/res/6.png">
+<img src="https://user-images.githubusercontent.com/33380063/56156612-8e926e00-5ff8-11e9-99b4-f240828b654f.png">
 
 이렇게 되면 가입 신청이 완료됩니다.
 
