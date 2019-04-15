@@ -119,4 +119,8 @@ Initiative Q는 많은 사람의 유입을 위해서 추천인, 초대 전략을
 #### __[Initiative Q 가입하기](https://initiativeq.com/invite/RCueng6QB)__
 (위 링크와 동일)
 
+- ![Image Alt 텍스트]({{site.url}}/assets/img/1.png )
+- ![Image Alt 텍스트](http://blog.jaeyoon.io/assets/img/1.png)
+- ![Image Alt 텍스트](/assets/img/1.png)
+
 
