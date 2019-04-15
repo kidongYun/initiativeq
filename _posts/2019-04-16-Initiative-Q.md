@@ -64,7 +64,7 @@ __Q 코인__ 을 지급받을 수 있다는 거죠
 위의 'Initiative Q 가입하기' 링크를 클릭하면 아래의 화면의 뜨게 됩니다.
 
 
-<img src="../res/1.png">
+<img src="https://user-images.githubusercontent.com/33380063/56156342-0b711800-5ff8-11e9-8a69-815d88e547b4.png">
 
 위 화면에서 아래쪽으로 계속 스크롤 하게되면 Sign Up 챕터가 나옵니다.
 
